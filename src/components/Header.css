@@ -1,0 +1,9 @@
+.header__wrapper{
+    background-color: #E15A1D;
+    padding-block: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+}
